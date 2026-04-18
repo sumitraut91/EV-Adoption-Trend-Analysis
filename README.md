@@ -133,7 +133,7 @@ Performed using **Power Query**:
 
 ## 📊 Dashboard Preview
 
-<img width="1224" height="579" alt="Ferns and Petals Sales Analysis" src="EV Adoption Trend Analysis.PNG" />
+<img width="1224" height="579" alt="EV Adoption Trend Analysis" src="EV Adoption Trend Analysis.PNG" />
 
 ---
 
