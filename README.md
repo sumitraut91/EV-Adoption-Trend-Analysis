@@ -133,7 +133,7 @@ Performed using **Power Query**:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](EV Adoption Trend Analysis.PNG)
+![Dashboard Preview]([EV Adoption Trend Analysis.PNG](https://github.com/sumitraut91/EV-Adoption-Trend-Analysis/blob/main/EV%20Adoption%20Trend%20Analysis.PNG))
 
 ---
 
