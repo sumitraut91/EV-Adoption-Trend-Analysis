@@ -38,7 +38,7 @@ The analysis is built using real-world EV registration data and showcases how Ex
 ## 🗂️ Dataset Information
 
 * **Source**: Kaggle EV Population Dataset
-* **Records**: 114,000+ entries
+* **Records**: 177,000+ entries
 * **Key Columns**:
 
   * Vehicle ID (VIN partial)
