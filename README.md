@@ -131,9 +131,9 @@ Performed using **Power Query**:
 
 ---
 
-## 📸 Dashboard Preview
+## 📊 Dashboard Preview
 
-![Dashboard Preview](EV Adoption Trend Analysis.PNG)
+<img width="1224" height="579" alt="Ferns and Petals Sales Analysis" src="https://github.com/user-attachments/assets/85fcc445-1cb2-44b1-b1f7-187b0b61d5e8" />
 
 ---
 
